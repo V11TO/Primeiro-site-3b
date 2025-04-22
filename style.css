@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #a90b0b;
 }
 
 
@@ -102,7 +102,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #aa0a0a;
 
 }
 
@@ -120,12 +120,12 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #a10d0d;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(210, 9, 9, 0.87);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
@@ -138,5 +138,5 @@ h2 {
 
 /* chama classe do bootstrap para modificar a cor */
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #dc0037;
 }
